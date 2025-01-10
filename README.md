@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=joaolopes017&color=9745F5)
 ## Hi there 👋
-🔭 Olá seja bem-vindo(a) ao meu GitHub - @joaolopes017
+🔭 Welcome to my GitHub - @joaolopes017
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=git,docker,python,react,cs,js)](https://skillicons.dev)
