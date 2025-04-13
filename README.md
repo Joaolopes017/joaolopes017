@@ -3,7 +3,7 @@
 🔭 Welcome to my GitHub - @joaolopes017
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=git,docker,python,react,cs,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,python,react,cs,js,go)](https://skillicons.dev)
 
 
 
